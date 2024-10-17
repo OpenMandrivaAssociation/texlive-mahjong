@@ -3,7 +3,7 @@ Version:	58896
 Release:	2
 Summary:	Typeset Mahjong Tiles using MPSZ Notation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mahjong
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mahjong
 License:	mit cc-by-1
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mahjong.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mahjong.doc.r%{version}.tar.xz
